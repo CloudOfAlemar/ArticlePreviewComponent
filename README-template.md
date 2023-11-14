@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link to Solution](https://your-solution-url.com)
-- Live Site URL: [Link to Live Site](https://your-live-site-url.com)
+- Solution URL: [Link to Solution](https://www.frontendmentor.io/solutions/article-preview-component-gua3CQ_2_S)
+- Live Site URL: [Link to Live Site](https://cloudofalemar.github.io/ArticlePreviewComponent/)
 
 ## My process
 
